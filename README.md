@@ -1,16 +1,6 @@
-  <summary>:zap: GitHub Stats</summary>
-  <br />
-  <img align="left" alt="achmad megantara's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=achmegantara&show_icons=true&hide_border=true" />
-  <img align="left" alt="achmad megantara language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmegantara&layout=compact"  />
-
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
+<p align="left">:zap: GitHub Stats </p>
+<img alt="achmad megantara's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=achmegantara&show_icons=true&hide_border=true" />
+<img alt="achmad megantara language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmegantara&layout=compact"  />
 
 <p align=justify>Hello, my name is Achmad Akbar Megantara, but you can call me ega. I'm software engineer who specialized in web developing, data mining / science and network security engineer. In the web developing side, i'm focused on backend enginer with javascript, php and go as the most commonly language used. However, i'm also able to do frontend side too as if needed. </p>
 <p align=justify>I'm also experienced in data mining / science with several projects done in my master degree's program. i'm able to do exploratory data analysis (EDA), data preparation & data cleaning, data preprocessing and data processing / data modelling.</p>
@@ -48,8 +38,7 @@
 - Email: [achmegantara@gmail.com](achmegantara@gmail.com)
 - LinkedIn: [Achmegantara](https://www.linkedin.com/in/achmadmegantara/)
 - Instagram: [@achmegantara](https://www.instagram.com/achmegantara/)
-
-<br />
-<br />
-
+  
+  <br />
+  
 © 2021 — Achmad Megantara
