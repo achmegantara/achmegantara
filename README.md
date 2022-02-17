@@ -34,7 +34,7 @@
 
 ### Connect with me:
 
-- Web: [On progress]
+- Web: [achmegantara.github.io](achmegantara.github.io)
 - Email: [achmegantara@gmail.com](achmegantara@gmail.com)
 - LinkedIn: [Achmegantara](https://www.linkedin.com/in/achmadmegantara/)
 - Instagram: [@achmegantara](https://www.instagram.com/achmegantara/)
