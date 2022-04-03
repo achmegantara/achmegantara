@@ -5,39 +5,11 @@
 <img alt="achmad megantara language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmegantara&layout=compact"  />
 
 ## 💻 Working Specialist
-- Data Analyst
-- Data Scientist
-- Business Intelligence Analyst
-- Data Engineer
-- Machine Learning Engineer
-- Web Development
-- Network Engineer
+- Data Analyst | Business Intelligence Analyst & Data Scientist
+- Web Development | Frontend, Backend, DevOps
+- Network Engineer | Network Architecture & Network Security
 
 ## 💻 Experiences
-- HTML & CSS
-- Bootsrap 4 & 5
-- JacaScript (ReactJs, ExpressJs, NodeJS)
-- Go
-- PHP (Laravel)
-- Java (Android Studio)
-- Python (Jupyter Notebook)
-- Database (MySQL, mongoDB, Firebase)
-- Linux (Ubuntu, mint, debian, kali, Parrot)
-- Version Control (Git & Github)
-- Machine learning project (Intrusion detection system, COVID-19, activity recognition, image retrieval / searching)
-- Data preparation (profiling, cleaning, visualizations, scaling, standardize, normalization, missing values)
-- Data preprocessing (feature selction & data reduction)
-- Data modelling (Decision tree, SVM, Naive bayes, K-means, K-NN, etc)
-
-### 🔍 Currently Learning:
-- Continuous integration and continuous delivery (CI / CD)
-- Software development testing
-- Manual & automation testing
-- Cloud computing
-- Digital forensic
-- Writting
-- Human self development
-- Native english speaking
 
 ### Connect with me:
 
