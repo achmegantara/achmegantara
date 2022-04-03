@@ -9,8 +9,6 @@
 - Web Development | Frontend, Backend, DevOps
 - Network Engineer | Network Architecture & Network Security
 
-## 💻 Experiences
-
 ### Connect with me:
 
 - Web: [achmegantara.github.io](achmegantara.github.io)
@@ -20,4 +18,4 @@
   
   <br />
   
-© 2021 — Achmad Megantara
+© 2022 — Achmad Megantara
